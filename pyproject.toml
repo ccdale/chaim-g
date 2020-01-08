@@ -4,6 +4,9 @@ version = "0.1.0"
 description = "gui for chaim client"
 authors = ["ccdale <chris.charles.allison+chaim-g@gmail.com>"]
 license = "GPL-3.0-or-later"
+readme = "README.md"
+homepage = "https://github.com/ccdale/chaim-g"
+repository = "https://github.com/ccdale/chaim-g"
 
 [tool.poetry.dependencies]
 python = ">=3.6"
