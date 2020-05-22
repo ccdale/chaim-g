@@ -1,5 +1,5 @@
 [tool.poetry]
-name = "chaim-g"
+name = "chaimg"
 version = "0.1.0"
 description = "gui for chaim client"
 authors = ["ccdale <chris.charles.allison+chaim-g@gmail.com>"]
@@ -10,9 +10,9 @@ repository = "https://github.com/ccdale/chaim-g"
 
 [tool.poetry.dependencies]
 python = "^3.7"
-wxpython = "^4.0.7"
-chaim = "^0.7.4"
-ccalogging = "^0.3.3"
+chaim = "^0.8.0"
+PySimpleGUI = "^4.19.0"
+ccautils = "^0.4.2"
 
 [tool.poetry.dev-dependencies]
 pytest = "^5.3.2"
